@@ -1,2 +1,2 @@
 # blog-front-page
- a sample of front page of blogging....
+ React based  front page of blogging with extracting data from Api (jsonplaceholder) 
